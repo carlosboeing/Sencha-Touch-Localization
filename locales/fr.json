@@ -1,0 +1,27 @@
+{
+    "Field1": {
+        "label": "label Français",
+        "placeHolder": "espace réservé Française"
+    },
+    "SelectField1": {
+        "label": "Coleur:",
+        "options": [
+            {
+                "name": "Bleu",
+                "value": "Bleu"
+            },
+            {
+                "name": "Rouge",
+                "value": "Rouge"
+            },
+            {
+                "name": "Vert",
+                "value": "Vert"
+            }
+        ]
+    },
+    "MyDataView": {
+        "nameLabel": "Nom",
+        "emptyText": "Aucun résultat"
+    }
+}
